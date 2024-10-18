@@ -1,0 +1,5 @@
+C:\Users\Veteran\desktop\bootcamp\c#\employee-tracker\CatWorx.BadgeMaker\obj\Debug\net8.0\CatWorx.BadgeMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veteran\desktop\bootcamp\c#\employee-tracker\CatWorx.BadgeMaker\obj\Debug\net8.0\CatWorx.BadgeMaker.AssemblyInfoInputs.cache
+C:\Users\Veteran\desktop\bootcamp\c#\employee-tracker\CatWorx.BadgeMaker\obj\Debug\net8.0\CatWorx.BadgeMaker.AssemblyInfo.cs
+C:\Users\Veteran\desktop\bootcamp\c#\employee-tracker\CatWorx.BadgeMaker\obj\Debug\net8.0\CatWorx.BadgeMaker.csproj.CoreCompileInputs.cache
+C:\Users\Veteran\desktop\bootcamp\c#\employee-tracker\CatWorx.BadgeMaker\obj\Debug\net8.0\CatWorx.BadgeMaker.sourcelink.json

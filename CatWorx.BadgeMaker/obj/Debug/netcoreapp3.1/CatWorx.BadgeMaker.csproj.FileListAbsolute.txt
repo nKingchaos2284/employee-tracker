@@ -1,0 +1,55 @@
+C:\Users\engle\Documents\Code Projects\Continuation-Courses\CatWorx.BadgeMaker\bin\Debug\netcoreapp3.1\CatWorx.BadgeMaker.exe
+C:\Users\engle\Documents\Code Projects\Continuation-Courses\CatWorx.BadgeMaker\bin\Debug\netcoreapp3.1\CatWorx.BadgeMaker.deps.json
+C:\Users\engle\Documents\Code Projects\Continuation-Courses\CatWorx.BadgeMaker\bin\Debug\netcoreapp3.1\CatWorx.BadgeMaker.runtimeconfig.json
+C:\Users\engle\Documents\Code Projects\Continuation-Courses\CatWorx.BadgeMaker\bin\Debug\netcoreapp3.1\CatWorx.BadgeMaker.runtimeconfig.dev.json
+C:\Users\engle\Documents\Code Projects\Continuation-Courses\CatWorx.BadgeMaker\bin\Debug\netcoreapp3.1\CatWorx.BadgeMaker.dll
+C:\Users\engle\Documents\Code Projects\Continuation-Courses\CatWorx.BadgeMaker\bin\Debug\netcoreapp3.1\CatWorx.BadgeMaker.pdb
+C:\Users\engle\Documents\Code Projects\Continuation-Courses\CatWorx.BadgeMaker\obj\Debug\netcoreapp3.1\CatWorx.BadgeMaker.csprojAssemblyReference.cache
+C:\Users\engle\Documents\Code Projects\Continuation-Courses\CatWorx.BadgeMaker\obj\Debug\netcoreapp3.1\CatWorx.BadgeMaker.AssemblyInfoInputs.cache
+C:\Users\engle\Documents\Code Projects\Continuation-Courses\CatWorx.BadgeMaker\obj\Debug\netcoreapp3.1\CatWorx.BadgeMaker.AssemblyInfo.cs
+C:\Users\engle\Documents\Code Projects\Continuation-Courses\CatWorx.BadgeMaker\obj\Debug\netcoreapp3.1\CatWorx.BadgeMaker.csproj.CoreCompileInputs.cache
+C:\Users\engle\Documents\Code Projects\Continuation-Courses\CatWorx.BadgeMaker\obj\Debug\netcoreapp3.1\CatWorx.BadgeMaker.dll
+C:\Users\engle\Documents\Code Projects\Continuation-Courses\CatWorx.BadgeMaker\obj\Debug\netcoreapp3.1\CatWorx.BadgeMaker.pdb
+C:\Users\engle\Documents\Code Projects\Continuation-Courses\CatWorx.BadgeMaker\obj\Debug\netcoreapp3.1\CatWorx.BadgeMaker.genruntimeconfig.cache
+C:\Users\engle\Documents\Code Projects\Continuation-Courses\catworx-badgemaker\bin\Debug\netcoreapp3.1\CatWorx.BadgeMaker.exe
+C:\Users\engle\Documents\Code Projects\Continuation-Courses\catworx-badgemaker\bin\Debug\netcoreapp3.1\CatWorx.BadgeMaker.deps.json
+C:\Users\engle\Documents\Code Projects\Continuation-Courses\catworx-badgemaker\bin\Debug\netcoreapp3.1\CatWorx.BadgeMaker.runtimeconfig.json
+C:\Users\engle\Documents\Code Projects\Continuation-Courses\catworx-badgemaker\bin\Debug\netcoreapp3.1\CatWorx.BadgeMaker.runtimeconfig.dev.json
+C:\Users\engle\Documents\Code Projects\Continuation-Courses\catworx-badgemaker\bin\Debug\netcoreapp3.1\CatWorx.BadgeMaker.dll
+C:\Users\engle\Documents\Code Projects\Continuation-Courses\catworx-badgemaker\bin\Debug\netcoreapp3.1\CatWorx.BadgeMaker.pdb
+C:\Users\engle\Documents\Code Projects\Continuation-Courses\catworx-badgemaker\obj\Debug\netcoreapp3.1\CatWorx.BadgeMaker.csprojAssemblyReference.cache
+C:\Users\engle\Documents\Code Projects\Continuation-Courses\catworx-badgemaker\obj\Debug\netcoreapp3.1\CatWorx.BadgeMaker.AssemblyInfoInputs.cache
+C:\Users\engle\Documents\Code Projects\Continuation-Courses\catworx-badgemaker\obj\Debug\netcoreapp3.1\CatWorx.BadgeMaker.AssemblyInfo.cs
+C:\Users\engle\Documents\Code Projects\Continuation-Courses\catworx-badgemaker\obj\Debug\netcoreapp3.1\CatWorx.BadgeMaker.csproj.CoreCompileInputs.cache
+C:\Users\engle\Documents\Code Projects\Continuation-Courses\catworx-badgemaker\obj\Debug\netcoreapp3.1\CatWorx.BadgeMaker.dll
+C:\Users\engle\Documents\Code Projects\Continuation-Courses\catworx-badgemaker\obj\Debug\netcoreapp3.1\CatWorx.BadgeMaker.pdb
+C:\Users\engle\Documents\Code Projects\Continuation-Courses\catworx-badgemaker\obj\Debug\netcoreapp3.1\CatWorx.BadgeMaker.genruntimeconfig.cache
+C:\Users\engle\Documents\Code Projects\Continuation-Courses\catworx-badgemaker\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\engle\Documents\Code Projects\Continuation-Courses\catworx-badgemaker\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\engle\Documents\Code Projects\Continuation-Courses\catworx-badgemaker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\engle\Documents\Code Projects\Continuation-Courses\catworx-badgemaker\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\engle\Documents\Code Projects\Continuation-Courses\catworx-badgemaker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\engle\Documents\Code Projects\Continuation-Courses\catworx-badgemaker\obj\Debug\netcoreapp3.1\CatWorx.BadgeMaker.csproj.CopyComplete
+C:\Users\engle\Documents\Code Projects\Continuation-Courses\catworx-badgemaker\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Veteran\desktop\bootcamp\c#\employee-tracker\CatWorx.BadgeMaker\bin\Debug\netcoreapp3.1\CatWorx.BadgeMaker.exe
+C:\Users\Veteran\desktop\bootcamp\c#\employee-tracker\CatWorx.BadgeMaker\bin\Debug\netcoreapp3.1\CatWorx.BadgeMaker.deps.json
+C:\Users\Veteran\desktop\bootcamp\c#\employee-tracker\CatWorx.BadgeMaker\bin\Debug\netcoreapp3.1\CatWorx.BadgeMaker.runtimeconfig.json
+C:\Users\Veteran\desktop\bootcamp\c#\employee-tracker\CatWorx.BadgeMaker\bin\Debug\netcoreapp3.1\CatWorx.BadgeMaker.runtimeconfig.dev.json
+C:\Users\Veteran\desktop\bootcamp\c#\employee-tracker\CatWorx.BadgeMaker\bin\Debug\netcoreapp3.1\CatWorx.BadgeMaker.dll
+C:\Users\Veteran\desktop\bootcamp\c#\employee-tracker\CatWorx.BadgeMaker\bin\Debug\netcoreapp3.1\CatWorx.BadgeMaker.pdb
+C:\Users\Veteran\desktop\bootcamp\c#\employee-tracker\CatWorx.BadgeMaker\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Veteran\desktop\bootcamp\c#\employee-tracker\CatWorx.BadgeMaker\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Veteran\desktop\bootcamp\c#\employee-tracker\CatWorx.BadgeMaker\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Veteran\desktop\bootcamp\c#\employee-tracker\CatWorx.BadgeMaker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Veteran\desktop\bootcamp\c#\employee-tracker\CatWorx.BadgeMaker\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Veteran\desktop\bootcamp\c#\employee-tracker\CatWorx.BadgeMaker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Veteran\desktop\bootcamp\c#\employee-tracker\CatWorx.BadgeMaker\obj\Debug\netcoreapp3.1\CatWorx.BadgeMaker.csproj.AssemblyReference.cache
+C:\Users\Veteran\desktop\bootcamp\c#\employee-tracker\CatWorx.BadgeMaker\obj\Debug\netcoreapp3.1\CatWorx.BadgeMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veteran\desktop\bootcamp\c#\employee-tracker\CatWorx.BadgeMaker\obj\Debug\netcoreapp3.1\CatWorx.BadgeMaker.AssemblyInfoInputs.cache
+C:\Users\Veteran\desktop\bootcamp\c#\employee-tracker\CatWorx.BadgeMaker\obj\Debug\netcoreapp3.1\CatWorx.BadgeMaker.AssemblyInfo.cs
+C:\Users\Veteran\desktop\bootcamp\c#\employee-tracker\CatWorx.BadgeMaker\obj\Debug\netcoreapp3.1\CatWorx.BadgeMaker.csproj.CoreCompileInputs.cache
+C:\Users\Veteran\desktop\bootcamp\c#\employee-tracker\CatWorx.BadgeMaker\obj\Debug\netcoreapp3.1\CatWorx.BadgeMaker.sourcelink.json
+C:\Users\Veteran\desktop\bootcamp\c#\employee-tracker\CatWorx.BadgeMaker\obj\Debug\netcoreapp3.1\CatWorx..0543816E.Up2Date
+C:\Users\Veteran\desktop\bootcamp\c#\employee-tracker\CatWorx.BadgeMaker\obj\Debug\netcoreapp3.1\CatWorx.BadgeMaker.dll
+C:\Users\Veteran\desktop\bootcamp\c#\employee-tracker\CatWorx.BadgeMaker\obj\Debug\netcoreapp3.1\CatWorx.BadgeMaker.pdb
+C:\Users\Veteran\desktop\bootcamp\c#\employee-tracker\CatWorx.BadgeMaker\obj\Debug\netcoreapp3.1\CatWorx.BadgeMaker.genruntimeconfig.cache
